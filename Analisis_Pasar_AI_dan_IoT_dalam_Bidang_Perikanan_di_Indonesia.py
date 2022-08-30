@@ -23,7 +23,7 @@ st.subheader('_Internet of Things_ (IoT)')
 st.markdown("IoT atau _Internet of Things_ adalah perangkat yang memiliki kemampuan untuk mentransfer data melalui jaringan dengan sangat sedikit campur tangan manusia. Terdapat tiga bagian dari IoT yaitu _things_ yang mengambil data dan mengirimnya, _things_ yang menerima data dan melakukan sesuatu dengannya, dan _things_ yang melakukan keduanya. IoT ini menghubungkan beberapa perangkat dengan internet, dan membantu interaksi antara mesin dan mesin, serta mesin dan manusia. Komponen IoT adalah sensor/perangkat, pemrosesan data, konektivitas, dan antarmuka pengguna.")
 
 st.subheader('Pemanfaatan AI dan IoT dalam Perikanan')
-st.markdown("")
+st.markdown("Data dari lingkungan akan di_capture_ oleh IoT yang selanjutnya akan diakusisi dan kurasi. Setelah itu, dialirkan datanya ke sistem AI untuk diproduksi konten, rekomendasi, maupun keputusan.")
 
 P_AO = pd.read_excel('Potensi AI dan IoT.xlsx')
 st.image("Pemanfaatan.jpg", width=700)
