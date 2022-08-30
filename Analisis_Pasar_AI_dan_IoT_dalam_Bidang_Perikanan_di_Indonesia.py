@@ -7,7 +7,7 @@ st.set_page_config(page_title= "Analisis Pasar AI dan IoT dalam Bidang Perikanan
 st.sidebar.subheader('Analisis Pasar AI dan IoT dalam Bidang Perikanan di Indonesia')
 st.sidebar.markdown(f"""
                    Analisis dilakukan berdasarkan data pada **[Statistik Kementerian Kelautan dan Perikanan (KKP)](https://statistik.kkp.go.id/)** dan **[Badan Pusat Statistik (BPS)](https://www.bps.go.id/)**.
-                   \n(klik tanda v untuk melihat lebih banyak)""")
+                   \ndibuat dengan menggunakan Tableau, Excel, dan Python""")
 st.sidebar.markdown('**[Adi Nugraha, 2022](https://id.linkedin.com/in/adinugraha790)**')
 
 st.title('AI, IoT, dan Pemanfaatannya di Perikanan')
